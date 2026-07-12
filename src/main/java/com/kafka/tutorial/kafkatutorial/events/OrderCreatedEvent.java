@@ -1,4 +1,4 @@
-package com.kafka.tutorial.kafkatutorial.orders.events;
+package com.kafka.tutorial.kafkatutorial.events;
 
 import java.math.BigDecimal;
 import java.time.Instant;
