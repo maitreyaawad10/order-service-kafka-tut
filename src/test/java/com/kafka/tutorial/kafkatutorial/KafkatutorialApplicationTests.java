@@ -1,4 +1,4 @@
-package com.kafka.tutorial.kafkatutorial;
+package com.kafka.tutorial.orders;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

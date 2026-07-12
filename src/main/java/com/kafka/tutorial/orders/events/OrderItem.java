@@ -1,4 +1,4 @@
-package com.kafka.tutorial.kafkatutorial.events;
+package com.kafka.tutorial.orders.events;
 
 public record OrderItem(
         String productId,

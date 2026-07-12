@@ -1,13 +1,13 @@
-package com.kafka.tutorial.kafkatutorial;
+package com.kafka.tutorial.orders;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkatutorialApplication {
+public class OrderServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KafkatutorialApplication.class, args);
+		SpringApplication.run(OrderServiceApplication.class, args);
 	}
 
 }

@@ -1,7 +1,7 @@
-package com.kafka.tutorial.kafkatutorial.controllers;
+package com.kafka.tutorial.orders.controllers;
 
-import com.kafka.tutorial.kafkatutorial.requests.CreateOrderRequest;
-import com.kafka.tutorial.kafkatutorial.services.OrderService;
+import com.kafka.tutorial.orders.requests.CreateOrderRequest;
+import com.kafka.tutorial.orders.services.OrderService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,7 +1,7 @@
-package com.kafka.tutorial.kafkatutorial.services;
+package com.kafka.tutorial.orders.services;
 
-import com.kafka.tutorial.kafkatutorial.events.OrderCreatedEvent;
-import com.kafka.tutorial.kafkatutorial.requests.CreateOrderRequest;
+import com.kafka.tutorial.orders.events.OrderCreatedEvent;
+import com.kafka.tutorial.orders.requests.CreateOrderRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
-package com.kafka.tutorial.kafkatutorial.requests;
+package com.kafka.tutorial.orders.requests;
 
-import com.kafka.tutorial.kafkatutorial.events.OrderItem;
+import com.kafka.tutorial.orders.events.OrderItem;
 
 import java.math.BigDecimal;
 import java.util.List;
