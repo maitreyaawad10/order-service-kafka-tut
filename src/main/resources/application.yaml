@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: kafkatutorial
+
+  kafka:
+    bootstrap-servers: localhost:9092
