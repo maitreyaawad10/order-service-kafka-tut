@@ -9,5 +9,5 @@ public record OrderCreatedEvent(
         String customerId,
         List<OrderItem> items,
         BigDecimal totalAmount,
-        Instant CreatedAt
+        Instant createdAt
 ) {}
